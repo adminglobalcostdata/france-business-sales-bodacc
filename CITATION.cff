@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below and credit the original source."
+title: "France Business Sales Notices (BODACC, companies)"
+type: dataset
+authors:
+  - family-names: "Bousquet"
+    given-names: "Henri"
+abstract: "Search French business and going-concern sale notices (cessions de fonds de commerce) published in the BODACC, where the buyer is a legal entity: date, court registry, buyer SIREN and name, activity sold, location and stated sale price. No individuals. Embedded data, pay per record."
+url: "https://apify.com/phonic_lily/france-business-sales-bodacc"
+repository-code: "https://github.com/adminglobalcostdata/france-business-sales-bodacc"
+date-released: 2026-11-27
+keywords:
+  - open-data
+  - dataset
+  - json
+  - jsonl
+  - apify
+  - apify-actor
+  - data-api
+  - france

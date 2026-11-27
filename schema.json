@@ -1,0 +1,69 @@
+{
+ "columns": [
+  {
+   "name": "notice_id",
+   "type": "string",
+   "description": "BODACC notice id."
+  },
+  {
+   "name": "publication_date",
+   "type": "string",
+   "description": "Publication date (ISO)."
+  },
+  {
+   "name": "court_registry",
+   "type": "string",
+   "description": "Commercial court registry."
+  },
+  {
+   "name": "buyer_siren",
+   "type": "string",
+   "description": "Buyer SIREN."
+  },
+  {
+   "name": "buyer_name",
+   "type": "string",
+   "description": "Buyer legal name."
+  },
+  {
+   "name": "buyer_legal_form",
+   "type": "string",
+   "description": "Buyer legal form as printed."
+  },
+  {
+   "name": "buyer_naf",
+   "type": "string",
+   "description": "Buyer NAF code when known, else null."
+  },
+  {
+   "name": "city",
+   "type": "string",
+   "description": "City."
+  },
+  {
+   "name": "postal_code",
+   "type": "string",
+   "description": "Postal code."
+  },
+  {
+   "name": "department",
+   "type": "string",
+   "description": "Department code."
+  },
+  {
+   "name": "category",
+   "type": "string",
+   "description": "Sale category."
+  },
+  {
+   "name": "sale_price_eur",
+   "type": "number",
+   "description": "Stated sale price in EUR, null when not stated."
+  },
+  {
+   "name": "activity",
+   "type": "string",
+   "description": "Activity of the business sold (first 400 chars)."
+  }
+ ]
+}
